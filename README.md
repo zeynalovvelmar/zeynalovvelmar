@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Elmar Zeynalov
+# Hi there , I'm Elmar Zeynalov
 
 I am a **Data Engineer** specializing in building robust ETL/ELT pipelines, designing Data Warehouses, and working with real-time streaming architectures.
 
@@ -21,9 +21,3 @@ I am a **Data Engineer** specializing in building robust ETL/ELT pipelines, desi
 
 - [**E-Commerce ELT Pipeline**](https://github.com/zeynalovvelmar/ecommerce-elt-pipeline)
   Enterprise-grade ELT pipeline converting unstructured retail data into a Star Schema Warehouse using **Oracle SQL**.
-
-### 📊 GitHub Stats
-![Elmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynalovvelmar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynalovvelmar&layout=compact&theme=radical)
-
-📫 **How to reach me:** You can find my contact details on my resume or LinkedIn profile.
